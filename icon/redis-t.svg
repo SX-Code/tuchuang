@@ -28,12 +28,12 @@
         fill: #ac2724;
       }</style>
   <clipPath id="clip-path">
-   <rect class="cls-1" width="146.42" height="125.48" id="svg_1" fill="null"/>
+   <rect class="cls-1" width="146.42" height="125.48" id="svg_1" fill="transparent"/>
   </clipPath>
  </defs>
  <g>
   <title>background</title>
-  <rect x="-1" y="-1" width="150" height="129" id="canvas_background" fill="null"/>
+  <rect x="-1" y="-1" width="150" height="129" id="canvas_background" fill="transparent"/>
  </g>
  <g>
   <title>Layer 1</title>
